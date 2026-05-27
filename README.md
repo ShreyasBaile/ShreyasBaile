@@ -72,4 +72,4 @@ A responsive portfolio website deployed on AWS S3 static website hosting using G
 ## 📫 Connect with me
 
 - GitHub: ShreyasBaile
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/shreyas-baile
